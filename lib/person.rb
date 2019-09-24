@@ -17,10 +17,4 @@ def Person
  end
 
 
-
-
-
-
-
-
 end
